@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sindiri Mallikarjuna</h1>
+<h1 align="center">SINDIRI MALLIKARJUNA</h1>
 
 <p align="center">
   🎓 B.Tech CSE @ VNRVJIET | 🤖 AI Enthusiast | ☁️ Cloud Learner | 🛠️ Builder <br>
