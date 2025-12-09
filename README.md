@@ -1,19 +1,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=80&color=00F5D4&center=true&vCenter=true&width=600&repeat=true&lines=SINDIRI%20MALLIKARJUNA" alt="Animated Name" />
 </p>
+
 <p align="center">
-  🎓 B.Tech CSE @ VNRVJIET | 🤖 AI Enthusiast | ☁️ Cloud Learner | 🛠️ Builder <br>
-  <a href="mailto:mallikarjuna.sindiri@gmail.com">📧 Email</a> 
-  <a href="https://www.linkedin.com/in/mallikarjuna-sindiri">🔗 LinkedIn</a>
+  🎓 B.Tech CSE @ VNR VJIET | 💻 Full-Stack Developer | ☁️ Cloud & DevOps Learner | 🤖 AI Explorer <br>
+  <a href="mailto:mallikarjuna.sindiri@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mallikarjuna-sindiri">🔗 LinkedIn</a> •
+  <a href="https://github.com/mallikarjuna-sindiri">🐙 GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Career Objective
 
-I'm a 3rd-year Computer Science student who’s passionate about building practical tech that blends AI, cloud, and user experience. My journey started with web development and now I’m diving deep into the world of AI and ML.
-
-💡 I love turning ideas into reality using code and continuously learning through projects, certifications, and hackathons.
+I’m a curious and driven Computer Science undergraduate with a passion for building real-world, full-stack applications that create impact. With hands-on experience across multiple technologies, I enjoy turning ideas into scalable solutions. I’m seeking opportunities where I can grow as a developer, contribute to meaningful projects, and collaborate with teams to solve real problems through code.
 
 ---
 
@@ -21,53 +21,61 @@ I'm a 3rd-year Computer Science student who’s passionate about building practi
 
 | Domain | Skills |
 |--------|--------|
-| 👨‍💻 Programming | Python, Java, C++, R |
-| 🤖 AI/ML | OpenCV, Pandas, NumPy, scikit-learn, TensorFlow *(learning)* |
-| 🌐 Web | HTML, CSS, JavaScript, React.js, Node.js, Express.js |
+| 👨‍💻 Programming | Python, Java, C, C++ |
+| 🌐 Web Development | HTML, CSS, JavaScript, React.js, Next.js, Node.js, FastAPI, MERN Stack |
+| 🔌 Backend & APIs | REST APIs, Postman |
 | 🗄️ Databases | MySQL, MongoDB |
-| ⚙️ Tools | Git, GitHub, Postman, Figma, Tableau, Power BI |
+| 🔧 Tools & OS | GitHub, Tableau, Power BI, AutoCAD |
+| ☁️ Cloud & DevOps | Docker, Google Cloud Platform, Kubernetes (GKE), GitHub Actions |
 
 ---
 
-## 💻 Highlight Projects
+## 💻 Projects
 
-- 🎯 **MoodVision** – Facial emotion detection using OpenCV  
-- 🎵 **SkyTunes** – Music recommendations based on weather using MERN stack  
-- 🧼 **Clean India App** – Role-based waste reporting & tracking web platform  
-- 🏨 **Hotel Management System** – Command-line based hotel reservation system in Python
+- 🎯 **DASH – Decisive Assistant for Scheduling** *(MERN Stack)*  
+  Interactive task scheduling application with priority management, reminders, and conflict detection.
+
+- 📝 **Role-Based Blogging Platform** *(MERN Stack)*  
+  Secure blogging platform with role-based access (User/Author/Admin), real-time actions, and content moderation.
+
+- ✉️ **Invites App** *(FastAPI | React | Docker | GCP | Kubernetes)*  
+  Full-stack event invitation platform deployed on GKE with public access via LoadBalancer and container orchestration.
 
 ---
 
 ## 📜 Certifications
 
-- 🧠 **IBM AI Foundations**  
-- 🐍 **Infosys – Python Programming**  
-- ☕ **Infosys – Java Programming**  
-- 📊 **Tableau Data Visualization**  
-- 🔐 **Cyber Suraksha (Cybersecurity)**
+- 🧠 Oracle – **Generative AI** *(LLMs, prompt engineering, AI-based app development)*
+- 🐍 Infosys – **Python Programming** *(Core Python & problem-solving)*
+- ☕ Infosys – **Java Programming** *(OOP concepts)*  
+
+*(Verification links available in resume)*
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Achievements
 
-- 👨‍💻 **Smart India Hackathon** – Real-world national problem-solving  
-- 🚀 **Krithoathon Hackathon** – App building challenge @ VNRVJIET  
-- ❄️ **Winter Coding Contest** – Organized by ACM Club  
+- ✔️ Solved **500+ coding problems** on major competitive programming platforms  
+- 🥇 Secured **AIR 4073 (EWS category)** in **JEE Advanced**  
+- 💡 Strong analytical and coding proficiency through hackathons & competitive programming
 
 ---
 
-## 🎯 Career Aspiration
+## 🎯 Co-Curricular Activities
 
-I aim to become a **Cloud + AI Engineer**, blending scalable infrastructure with intelligent systems. My mission is to build impactful solutions at the intersection of ML, automation, and cloud computing.
+- 🛡️ Selected for **Smart India Hackathon 2025 (PS-3)** – Developed *TRIVENI*, Smart Band Aid Allocation System  
+- 👨‍💻 Participated as a **Team Lead** in **Turing Cup 2k25** hackathon at VNR VJIET  
+- 🎪 Active member of **ACM Student Chapter**, contributing to college-level events  
 
 ---
 
 ## 📫 Contact Me
 
-Let's connect and collaborate on cool projects!  
-[![Gmail Badge](https://img.shields.io/badge/-mallikarjuna.sindiri@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mallikarjuna.sindiri@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mallikarjuna-sindiri-53212b296/)
+Let’s build something impactful together! 🚀  
+[📧 mallikarjuna.sindiri@gmail.com](mailto:mallikarjuna.sindiri@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/mallikarjuna-sindiri/)  
+[🐙 GitHub](https://github.com/mallikarjuna-sindiri)
 
 ---
 
-> *"Stay curious. Keep building. Let your code speak for you."* 🚀
+> *“Stay curious. Keep building. Let your code speak for you.”* ✨
